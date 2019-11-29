@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardWidth">75dp</dimen>
+    <dimen name="cardHeight">75dp</dimen>
+
+    <dimen name="toptop">40dp</dimen>
+    <dimen name="margLeft">12dp</dimen>
+    <dimen name="margTop">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

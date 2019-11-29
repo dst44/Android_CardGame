@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Card Game</string>
+    <string name="title_activity_meme_flip_">MemeFlip_Activity</string>
+    <string name="title_activity_instruction_">Instruction_Activity</string>
+</resources>
